@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cohesive-geode-320816",
+  "private_key_id": "7ee2264a1d011edafd249fa2e883bb2edc20f8b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCV6wmzBf76nQnp\ncWMPg+77v6oGJNbXMoVdvglQzrTznBhKoRtFbnLIyVPeuYGsNso+lfQ0eg8vTB/u\nrg+9Se8iyepBRol/3OASj+XuqfKdzNJXE2dm1RAxCFEIqOQgn1QTb1HZFyErrVR0\nEkpV8ncqw9cBJKGDZlbOs1ytBmRjcr84fGzRJTbdPYR4miES9IuUe4dGFwH6K+Z1\nWjKJVsI8Q1+xzoN5j9DzpzHSKdPEmgbASsBbhtBpH5iR09X27RWseHGPhW5a2p1j\n4kcYx2IAM2CIo1BBVQbuh+nfHKdChVfndi7E9X2aNcXq2dxbVwaVDbYEfhyNSTEg\nCZHB0CghAgMBAAECggEAM0a2RRCecvpmav14u9RM17dpAHv2LZmeiv8WMZjZxF7V\n4iSzbq6FvQ47TPkXFJ+S0hA4+//plKxNWbYYNQ6GJ9h28oedPOn/i+nC47wl+voU\n0WqWGdJzHMoy6SrXCB9mwtT24jEqi8VXlvGwkjABuVNNhRsR0R8ePsmTP6zphiex\nl9tQIWu0BxEPAU9hkpZBK6GsoxoEmY+2lbY68a4uquJTk0qduBYOrjBhWaWzz3Hh\n8xtsTBgnVjaijH/yDLB8jotThTVuTOMFH0jsQoLXYyS/vUrzu/h/kiNEcaeFXd/t\nYMe/Lw63AtGKodY8jcJuFBiUZ/mT55/wVFcYmKDqHwKBgQDJEgjP9EmhGlqOqBGG\n5lBnyst5QBA7JzlH9jDM79BJ0gmQ94wo7IhsPJVbzm4P+vMRkiyQpATDCtH+1fnF\nLnni+8HsdmBSGli1DF+F4TdgX/LtFlEpeARRZIwqmoEw+7zjZNY7GXzfyiyD/tYX\nlvK5TK2obQhirzbL0xz/UVVc3wKBgQC+36OKK43D4WyojK9JDzfBNLfhbarSIqHC\nVex9GUf49aNS1EAdef+3Nxg8oQSvrhA3sEN7T16EgS0sm5anjSo2HzEwRsnI7coj\nM1LoSD3C9gCWge5HBx8LvxGJbo5IRnW7edXOcM9fbry3fNjxPrgBfTj4tsrrfmE+\nmS5GnuYa/wKBgC8WniG1YBjuhw6ppZEmFuZ3w7cdna98vBlyOnOEJg9jtQHSN2zO\nGBThC0l4yqXLa2lOBknJX6QdwJghnGDlRX423291OZGAwg2EXEqKN+HGFqoXc+J2\nTOyS05CWpnLGQbIvR0yH54qxWkN/Rrw3iZiDsJelETWrOvX49u2EKq2ZAoGBAJH+\nHmldfNZZQrH8wUmhYSTfPNIo/qIxqQYqkHLy9lDfGSgOfmfNW6D4fApLonj5KyBd\nKpBTmdjBsRrQer/3QlUZMJdbXZXZA2Y/KGfQcaUAYly8TtN3B/EFGNXEgQGZGw3l\nV3rKYGL/IUs7K/gB394LuJrLvZO4G4s0wOd1PE1jAoGBALlHm3Kz4cEQA9nl31IF\nu/m//EFH6xYNe7TCzRgT6YGs9B5WI9ucrcr7qN1Qw1/tGTqOiNIW6SvRAkVU6/p6\npKtJoLe1AF10uk17kF5sHc508DLfhNsTk+SnmwoUwQi95JqDBCsgnjHj9ohvi48N\nxxtXPDxyRQ6oUgkB0CEreOF0\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-f4lcjdl0o7ik3qri88hb4oc1-r@cohesive-geode-320816.iam.gserviceaccount.com",
+  "client_id": "106347136100538482105",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-f4lcjdl0o7ik3qri88hb4oc1-r%40cohesive-geode-320816.iam.gserviceaccount.com"
+}
